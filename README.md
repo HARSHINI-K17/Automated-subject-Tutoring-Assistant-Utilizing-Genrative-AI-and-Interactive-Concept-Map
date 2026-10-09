@@ -1,0 +1,2 @@
+# Automated-subject-Tutoring-Assistant-Utilizing-Genrative-AI-and-Interactive-Concept-Map
+AI-powered tutoring assistant that provides personalized, subject-specific explanations using Generative AI. Interactive concept maps help students visualize connections between concepts. Built with Python, Flask/Streamlit, HTML, CSS and JavaScript, it supports self-learning, exam preparation and accessible, on-demand academic guidance.
